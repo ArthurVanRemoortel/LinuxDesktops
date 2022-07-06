@@ -1,7 +1,7 @@
 # Gnome Desktop Config
 
 ## Preview
-<img src="https://github.com/ArthurVanRemoortel/Gnome-Desktop/blob/master/previews/preview.png?raw=true" width="1000" />
+<img src="https://github.com/ArthurVanRemoortel/LinuxDesktops/blob/master/Gnome-Desktop/previews/preview.png?raw=true" width="1000" />
 
 ## Dependencies
 - [Nordic Wallpapers](https://github.com/linuxdotexe/nordic-wallpapers)
